@@ -9,7 +9,7 @@ $ git clone https://github.com/mis0b1gboy/apt_to_deb.git
 
 $ cd apt_to_deb
 
-$ nano depend (fill with packages you want to download)
+$ vim depend (fill with packages you want to download)
 
 $ chmod +x dependencies.sh
 
